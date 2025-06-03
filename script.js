@@ -81,7 +81,9 @@ const memberNames = [
   "Faleye Adebisi",
   "Dairo Adedoyin",
   "Yemi OLABIYI T",
-  "Mummy Ore"
+  "Mummy Ore",
+  "Shola Abiona...OSHOGBO",
+  "Toyin Ibitowa....Actress"
 ];
 
 const isTesting = false;
