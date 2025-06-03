@@ -1,8 +1,8 @@
 const logoPath = "image/logo.jpg";
 const otherImages = [
-  "image/adeola.jpg", "image/alfa.png", "image/deola.jpg",
+  "image/adeola.jpg", "image/alfa.jpg", "image/deola.jpg",
   "image/fisayo.jpg", "image/iyaafe.jpg", "image/seyi.jpg",
-  "image/yomi.jpg","image/jibola.jpg"
+  "image/yomi.jpg","image/jibola.jpg","image/ade.jpg"
 ];
 
 const birthdayMembers = [
@@ -50,7 +50,7 @@ function updateTopImage() {
   const now = getCurrentTime();
   const hour = now.getHours();
 
-  if (hour < 16) {
+  if (hour < 12) {
     logoImg.src = logoPath;
   } else {
     let randomIndex;
