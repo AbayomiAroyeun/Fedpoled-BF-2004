@@ -2,14 +2,14 @@ const logoPath = "image/logo.jpg";
 const otherImages = [
   "image/adeola.jpg", "image/alfa.jpg", "image/deola.jpg",
   "image/fisayo.jpg", "image/iyaafe.jpg", "image/seyi.jpg",
-  "image/yomi.jpg","image/jibola.jpg","image/ade.jpg"
+  "image/yomi.jpg","image/jibola.jpg","image/ade.jpg","image/mope.jpg"
 ];
 
 const birthdayMembers = [
   { name: "Adeola Sanni", day: 26, month: 4, image: "image/tayo.gif" },
   { name: "Adeniyi Olawoyin", day: 22, month: 9, image: "image/fatimah.gif" },
   { name: "Ajibola Elubeku", day: 31, month: 6, image: "image/keji.gif" }, // Fixed
-  { name: "Fisayo Adedokun", day: 9, month: 10, image: "image/femi.gif" },
+  { name: "Fisayo Adeokun", day: 9, month: 10, image: "image/femi.gif" },
   { name: "Olamide Ilori", day: 16, month: 3, image: "image/rotimi.gif" },
   { name: "Mopelola Fowowe", day: 29, month: 5, image: "image/ademola.gif" },
   { name: "", day: 28, month: 1, image: "image/tunde.gif" },
@@ -23,7 +23,7 @@ const memberNames = [
   "Adeniyi Olawoyin",
   "Abayomi Aroyeun",
   "Ajibola Elubeku",
-  "Fisayo Adedokun(Olayinka)",
+  "Fisayo Adeokun(Olayinka)",
   "Olamide Ilori",
   "Mopelola Fowowe"
 
