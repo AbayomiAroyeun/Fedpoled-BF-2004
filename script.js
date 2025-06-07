@@ -9,13 +9,13 @@ const otherImages = [
 const birthdayMembers = [
   { name: "Adeola Sanni", day: 26, month: 4, image: "image/tayo.gif" },
   { name: "Adeniyi Olawoyin", day: 22, month: 9, image: "image/fatimah.gif" },
-  { name: "Ajibola Elubeku", day: 31, month: 6, image: "image/keji.gif" }, // Fixed
+  { name: "Ajibola Elubeku", day: 20, month: 5, image: "image/jibola.gif" }, // Fixed
   { name: "Fisayo Adeokun", day: 9, month: 10, image: "image/femi.gif" },
   { name: "Olamide Ilori", day: 16, month: 3, image: "image/rotimi.gif" },
   { name: "Mopelola Fowowe", day: 29, month: 5, image: "image/ademola.gif" },
   { name: "Adebukola Johnson Adeoye", day: 28, month: 1, image: "image/tunde.gif" },
   { name: "Abayomi Aroyeun", day: 21, month: 5, image: "image/Abayomi.jpg" },
-  { name: "Kazeem Kolawole Oseni", day: 7, month: 5, image: "image/kazeem.gif" },
+  { name: "Kazeem Kolawole Oseni", day: 8, month: 5, image: "image/kazeem.gif" },
   { name: "", day: 17, month: 7, image: "image/qudrat.gif" }
 ];
 
