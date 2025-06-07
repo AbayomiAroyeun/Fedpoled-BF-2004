@@ -50,7 +50,7 @@ const memberNames = [
   "KEMI Fadiji.... Iyawo Dami ( Kem Kem)",
   "Abayomi Aroyeun .... Yomi Mighty",
   "Ajibola Elubeku (Nee Ojo) .... Jiblo",
-  "Adeniyi Olawoyin",
+  "Adeniyi Olawoyin   Neyo",
   "Toyin Obembe ... Obembe mama",
   "Kazali Abiola",
   "Madam Ikuyajesin .... ALHAJA Olohun",
