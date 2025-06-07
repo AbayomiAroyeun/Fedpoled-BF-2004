@@ -2,7 +2,8 @@ const logoPath = "image/logo.jpg";
 const otherImages = [
   "image/adeola.jpg", "image/alfa.jpg", "image/deola.jpg",
   "image/fisayo.jpg", "image/iyaafe.jpg", "image/seyi.jpg",
-  "image/yomi.jpg", "image/jibola.jpg", "image/ade.jpg", "image/mope.jpg"
+  "image/yomi.jpg", "image/jibola.jpg", "image/ade.jpg", 
+  "image/mope.jpg","bukky.jpg"
 ];
 
 const birthdayMembers = [
@@ -12,9 +13,9 @@ const birthdayMembers = [
   { name: "Fisayo Adeokun", day: 9, month: 10, image: "image/femi.gif" },
   { name: "Olamide Ilori", day: 16, month: 3, image: "image/rotimi.gif" },
   { name: "Mopelola Fowowe", day: 29, month: 5, image: "image/ademola.gif" },
-  { name: "", day: 28, month: 1, image: "image/tunde.gif" },
+  { name: "Adebukola Johnson Adeoye", day: 28, month: 1, image: "image/tunde.gif" },
   { name: "Abayomi Aroyeun", day: 21, month: 5, image: "image/Abayomi.jpg" },
-  { name: "", day: 9, month: 1, image: "image/dada.jpg" },
+  { name: "Kazeem Kolawole Oseni", day: 7, month: 5, image: "image/kazeem.gif" },
   { name: "", day: 17, month: 7, image: "image/qudrat.gif" }
 ];
 
@@ -34,7 +35,7 @@ const memberNames = [
   "Taiwo Adebayo.... Taye Ojukwu",
   "David.... You fight Lion",
   "Madam Mope... Mopensin",
-  "Bukky... Bukky Dudu",
+  "Adebukola Johnson Adeoye... Bukky Dudu",
   "Peter Oloseh ... Olishe Baba",
   "Dele.... Daddy G.O",
   "Victoria... Vik vik",
