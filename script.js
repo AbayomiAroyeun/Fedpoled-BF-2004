@@ -16,6 +16,7 @@ const birthdayMembers = [
   { name: "Adebukola Johnson Adeoye", day: 28, month: 1, image: "image/tunde.gif" },
   { name: "Abayomi Aroyeun", day: 21, month: 6, image: "image/yomi.jpg" },
   { name: "Kazeem Kolawole Oseni", day: 8, month: 5, image: "image/kazeem.gif" },
+  { name: "Mopelola Fowowe (Nee Oladejo)", day: 10, month: 7, image: "image/mope.gif" },
   { name: "", day: 17, month: 7, image: "image/qudrat.gif" }
 ];
 
@@ -126,7 +127,7 @@ function updateWelcomeSection() {
   if (birthday) {
     welcomeDiv.style.animation = "none";
     welcomeDiv.style.backgroundImage = `url('${birthday.image}')`;
-    welcomeDiv.innerHTML = `<h3>We celebrate you today,<br>${birthday.name.toUpperCase()}! <br> Igba Odun, Odun kan ni O. <br> Happy Birthday</h3>`;
+    welcomeDiv.innerHTML = `<h3>We celebrate you today,<br>${birthday.name.toUpperCase()}!</h3>`;
   } else {
     welcomeDiv.style.animation = "slideshow 20s infinite";
     welcomeDiv.innerHTML = `<h2>Welcome Home !!!</h2>`;
