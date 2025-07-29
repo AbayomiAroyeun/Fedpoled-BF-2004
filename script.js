@@ -3,7 +3,7 @@ const otherImages = [
   "image/adeola.jpg", "image/alfa.jpg", "image/deola.jpg",
   "image/fisayo.jpg", "image/iyaafe.jpg", "image/seyi.jpg",
   "image/yomi.jpg", "image/jibola.jpg", "image/ade.jpg", 
-  "image/mope.jpg","bukky.jpg"
+  "image/mope.jpg","bukky.jpg","bayo.jpg"
 ];
 
 const birthdayMembers = [
@@ -17,6 +17,7 @@ const birthdayMembers = [
   { name: "Abayomi Aroyeun", day: 21, month: 6, image: "image/yomi.jpg" },
   { name: "Kazeem Kolawole Oseni", day: 8, month: 5, image: "image/kazeem.gif" },
   { name: "Mopelola Fowowe (Nee Oladejo)", day: 10, month: 7, image: "image/mope.gif" },
+  { name: "Adeyemi Solomon Adebayo", day: 28, month: 7, image: "image/bayo.jpg" },
   { name: "", day: 17, month: 7, image: "image/qudrat.gif" }
 ];
 
@@ -85,7 +86,8 @@ const memberNames = [
   "Yemi OLABIYI T",
   "Mummy Ore",
   "Shola Abiona...OSHOGBO",
-  "Toyin Ibitowa....Actress"
+  "Toyin Ibitowa....Actress",
+  "Adeyemi Solomon Adebayo"
 ];
 
 const isTesting = false;
